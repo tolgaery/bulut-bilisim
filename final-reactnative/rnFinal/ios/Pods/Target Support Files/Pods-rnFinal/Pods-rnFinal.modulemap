@@ -1,6 +1,0 @@
-module Pods_rnFinal {
-  umbrella header "Pods-rnFinal-umbrella.h"
-
-  export *
-  module * { export * }
-}
