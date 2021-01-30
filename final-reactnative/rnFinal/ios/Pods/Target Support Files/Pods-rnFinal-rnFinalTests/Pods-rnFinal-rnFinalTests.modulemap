@@ -1,0 +1,6 @@
+module Pods_rnFinal_rnFinalTests {
+  umbrella header "Pods-rnFinal-rnFinalTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
